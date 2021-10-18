@@ -1,4 +1,4 @@
 # Hi,
 
-Here you can find my resume. \n
+Here you can find my resume. <br />
 Have a great day!
